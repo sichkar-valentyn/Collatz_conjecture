@@ -8,9 +8,9 @@ Implementing Collatz conjecture with the help of recursive function.
 Creating a recursive function for calculating sequence of numbers, described by Collatz conjecture.
 <br/>As an input is natural number n > 0.
 <br/>As an output there is a sequence of numbers.
-<br/>For example:
+For example:
 * input = 5
-* output = 
+* output = 5 16 8 4 2 1
 
 ## MIT License
 ## Copyright (c) 2018 Valentyn N Sichkar
